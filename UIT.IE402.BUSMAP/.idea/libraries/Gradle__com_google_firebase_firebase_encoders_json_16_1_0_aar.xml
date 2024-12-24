@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-encoders-json:16.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/2ebb6cfd5e7af22e551869d9cfdac087/transformed/firebase-encoders-json-16.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/2ebb6cfd5e7af22e551869d9cfdac087/transformed/firebase-encoders-json-16.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/modules-2/files-2.1/com.google.firebase/firebase-encoders-json/16.1.0/6cbb5bf5ec756a55604fe68deba386bda9edcb9c/firebase-encoders-json-16.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/modules-2/files-2.1/com.google.firebase/firebase-encoders-json/16.1.0/13e469b445e762c1bc00f695e93b4a6ced10883f/firebase-encoders-json-16.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

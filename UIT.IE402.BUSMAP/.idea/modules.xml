@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UIT.IE402.BUSMAP.iml" filepath="$PROJECT_DIR$/.idea/modules/UIT.IE402.BUSMAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UIT.IE402.BUSMAP.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

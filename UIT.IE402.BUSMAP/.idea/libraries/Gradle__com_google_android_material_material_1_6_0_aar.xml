@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.6.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/787b49ec5784bf4efcdb9b558643c645/transformed/material-1.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/787b49ec5784bf4efcdb9b558643c645/transformed/material-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/787b49ec5784bf4efcdb9b558643c645/transformed/material-1.6.0/res" />
+      <root url="file://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/transforms-4/787b49ec5784bf4efcdb9b558643c645/transformed/material-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Zalo Received Files/UIT_IE402_MyBus/caches/modules-2/files-2.1/com.google.android.material/material/1.6.0/976aa22bd46c7748fade98594298bcd36b92f844/material-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
