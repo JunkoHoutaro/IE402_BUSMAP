@@ -1,6 +1,6 @@
 <resources>
     <!--  API_KEY google map  -->
-    <string name="apiKey">AIzaSyBVgIPFwxPToG-IGHn9-Lrj6mi8HO_uHlg</string>
+    <string name="apiKey"></string>
     <string name="app_name">MYBUS</string>
     <!--    -->
     <string name="title_splash">Được phát triển bởi</string>
