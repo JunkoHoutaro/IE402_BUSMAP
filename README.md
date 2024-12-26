@@ -5,6 +5,7 @@
  <li>21520223 - Nguyễn Phú Hào</li>
  <li>21520260 - Nguyễn Đức Huy</li>
 </ul> <hr>
+
 ## Giới thiệu
 Dự án **IE402 BusMap** là một ứng dụng hỗ trợ người dùng tra cứu thông tin về hệ thống xe buýt, giúp tối ưu hóa việc di chuyển bằng phương tiện giao thông công cộng. Ứng dụng được phát triển dựa trên các nguyên tắc đơn giản, hiệu quả và thân thiện với người dùng.
 
