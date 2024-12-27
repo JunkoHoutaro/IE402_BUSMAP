@@ -40,6 +40,69 @@ Dự án **IE402 BusMap** là một ứng dụng hỗ trợ người dùng tra c
    ```bash
    git clone https://github.com/JunkoHoutaro/IE402_BUSMAP.git
    ```
+## Cấu trúc thư mục dự án
+Dưới đây là cấu trúc thư mục của dự án:
+```bash
+├── build.gradle
+├── proguard-rules.pro
+├── src
+│   ├── androidTest
+│   │   └── java
+│   │       └── UIT
+│   │           └── IE402
+│   │               └── BUSMAP
+│   │                   └── ExampleInstrumentedTest.java
+│   ├── main
+│   │   ├── AndroidManifest.xml
+│   │   ├── java
+│   │   │   └── UIT
+│   │   │       └── IE402
+│   │   │           └── BUSMAP
+│   │   │               ├── MainActivity.java
+│   │   │               ├── SplashScreen.java
+│   │   │               ├── Support.java
+│   │   │               ├── address
+│   │   │               │   ├── AddressAdapter.java
+│   │   │               │   └── AddressSearchActivity.java
+│   │   │               ├── bus_stop
+│   │   │               │   ├── BusStopAdapter.java
+│   │   │               │   └── BusStopListFragment.java
+│   │   │               ├── data
+│   │   │               │   ├── AddressDAO.java
+│   │   │               │   ├── BusStopDAO.java
+│   │   │               │   └── DatabaseHelper.java
+│   │   │               ├── entities
+│   │   │               │   ├── Address.java
+│   │   │               │   └── BusStop.java
+│   │   │               ├── feedback
+│   │   │               │   └── FeedbackActivity.java
+│   │   │               └── user
+│   │   │                   ├── LoginActivity.java
+│   │   │                   └── RegisterActivity.java
+│   │   └── res
+│   │       ├── drawable
+│   │       │   ├── avatar_default.png
+│   │       │   └── ic_bus.png
+│   │       ├── layout
+│   │       │   ├── activity_main.xml
+│   │       │   ├── activity_login.xml
+│   │       │   └── activity_register.xml
+│   │       ├── values
+│   │       │   ├── colors.xml
+│   │       │   └── strings.xml
+│   │       └── mipmap-xxxhdpi
+│   │           └── ic_launcher.webp
+│   └── test
+│       └── java
+│           └── UIT
+│               └── IE402
+│                   └── BUSMAP
+│                       └── ExampleUnitTest.java
+├── gradle
+│   └── wrapper
+│       └── gradle-wrapper.properties
+└── settings.gradle
+```
 
 
 ## Đóng góp
